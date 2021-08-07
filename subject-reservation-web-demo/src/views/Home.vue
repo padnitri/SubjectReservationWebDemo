@@ -2,7 +2,7 @@
   <div class="home">
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
-      SIT Subject Reservation Web - Test Edit (ไม่ทันตอนแรก ติด run serve)
+      SIT Subject Reservation Web
     </p>
     <br />
     <v-row justify="center" align="top" no-gutters style="height: 150px">
